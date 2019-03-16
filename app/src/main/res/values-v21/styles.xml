@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme5" parent="Theme.AppTheme.Light.NoActionBar">
+        <item name="colorAccent">@color/cardview_light_background</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@drawable/com_facebook_auth_dialog_header_background
+        </item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:colorForeground">@android:color/white</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+    </style>
+</resources>

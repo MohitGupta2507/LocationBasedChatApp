@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="app_id">1186372924820626</string>
+    <string name="title_activity_main_area">MainArea</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Api">AIzaSyBvF8qKphaTHJ4X204TJCxctKFDJdysrXA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

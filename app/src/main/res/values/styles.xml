@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#344955</item>
+        <item name="colorPrimaryDark">#232F34</item>
+        <item name="colorAccent">#4A6572</item>
+    </style>
+
+    <style name="AppTheme3" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#344955</item>
+        <item name="colorPrimaryDark">#232F34</item>
+        <item name="colorAccent">#4A6572</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Theme.AppTheme.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="AppTheme5" parent="Theme.AppTheme.Light.NoActionBar">
+        <item name="colorAccent">@color/cardview_light_background</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@drawable/com_facebook_auth_dialog_header_background
+        </item>
+        <item name="android:colorForeground">@android:color/white</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
